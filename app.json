@@ -6,7 +6,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
-      "url" : https://heroku.com/deploy?template=https://github.com/jskssgs/AJU-SER
+      "url" : https://github.com/jskssgs/AJU-SER/heroku.com
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
